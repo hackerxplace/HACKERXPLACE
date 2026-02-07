@@ -1,12 +1,12 @@
-# NookChat
+# HACKER X PLACE
 
-![NookChat Logo](./client/public/logo-md.png)
+[HACKER X PLACE Logo](./client/public/logo-md.png)
 
 ## Overview
 
-NookChat is a secure and anonymous chat application enabling one-time, end-to-end encrypted conversations. With a focus on privacy, NookChat requires no login and leaves no traces, offering users a cozy digital nook for private communication.
+HACKER X PLACE is a secure and anonymous chat application enabling one-time, end-to-end encrypted conversations. With a focus on privacy, HACKER X PLACE requires no login and leaves no traces, offering users a cozy digital nook for private communication.
 
-![NookChat User Interface](./client/public/homeUI-image.png)
+![HACKER X PLACE User Interface](./client/public/homeUI-image.png)
 
 ## ✨ Features
 
