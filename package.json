@@ -1,5 +1,5 @@
 {
-    "name": "nookchat-root",
+   "name": "hacker-x-place",
     "private": true,
     "scripts": {
         "dev": "concurrently \"npm run dev --prefix client\" \"npm run dev --prefix server\""
